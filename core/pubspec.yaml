@@ -1,0 +1,11 @@
+name: cyber_countdown_core
+description: Pure Dart core of Cyber Countdown - the countdown model, remaining-time math, form validation and the reminder schedule.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.13.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.0
